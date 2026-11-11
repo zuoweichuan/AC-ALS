@@ -1,0 +1,6 @@
+{
+  "scanned_files": 123,
+  "credential_pattern_findings": [],
+  "forbidden_asset_paths": [],
+  "scope": "Heuristic scan of all intended release files; no credential values printed. Does not prove absence of every secret."
+}

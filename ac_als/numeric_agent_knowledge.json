@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "scope": "General numerical compensation-aware synthesis; no benchmark IDs, optimal areas, or historical netlists",
+  "rules": [
+    "A smaller accurate mapped netlist can hide reusable internal signals inside complex or multi-output cells. Consider a CEC-proven alternate exact representation even when its physical area is initially larger.",
+    "Separate the working search graph from the cheapest physically mapped incumbent. Exact remapping can change future candidate coverage; choose whether to adopt it instead of adopting it unconditionally.",
+    "More supported truth functions does not imply containment of another algorithm's screened candidates. Diagnose candidate quotas and exposed boundaries before attributing a plateau to global optimality.",
+    "Keep several area/error tradeoffs. A lower-error circuit with modest area debt can enable recompression; require measured error improvement and an explicit debt limit.",
+    "A near miss is promising only when its measured area gain can pay for repair. Rescan the actual child; parent repair effects need not persist after a replacement.",
+    "Use the declared formal error bound. Undeclared training or development margins can exclude valid competitive solutions. A final sampled failure remains a failure, never a reason to choose another final checkpoint.",
+    "Spend simulation on structurally distinct and error-diverse candidates. Reuse a scan only for its exact working-graph hash; do not resimulate a known rejected action on an unchanged graph.",
+    "Use bounded local rollouts between global decisions. Switch representation, branch, or candidate policy after measured stagnation; stopping on one branch is not proof of global convergence.",
+    "Physical mapping and function simulation costs are distinct. Compare complete propagation, local propagation, function scoring, mapping, and API time separately.",
+    "Only current displayed candidate IDs and checkpoint IDs are executable. Stop rather than inventing nodes or replaying candidates from a parent on its child.",
+    "A fractional rollout budget is a policy, not the formal constraint. After it stalls, consider using full remaining headroom before claiming no feasible compression exists.",
+    "Equivalent failed tool profiles on an unchanged graph are not new exploration. Changing a policy label with identical effective parameters wastes API calls; change a meaningful parameter, representation, repair, or branch.",
+    "A preserved working graph and its cheaper mapped checkpoint expose different signals. After stagnation, adopting the mapped topology or probing an untouched exact representation can be more useful than repeatedly retrying the same proxy candidates.",
+    "A single replacement's measured total loss includes cancellation of old errors. An additive positive-increment bound used for a batch must not exclude that single replacement when its measured total loss is within the formal allowance."
+  ]
+}

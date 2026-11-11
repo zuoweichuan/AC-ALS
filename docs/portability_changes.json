@@ -1,0 +1,244 @@
+{
+  "batch_wide.py": {
+    "changes": [
+      "portable_external_tool_argv"
+    ],
+    "published_sha256": "7fcf00a859beac94a34e280a96bf12512a850d82aca2b91582aa2dbf46463f7c"
+  },
+  "er_experience_search.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "39bbe2a94871044eadb8ec58f1985da54b79076c8ac64f504c679f9b35216bb6"
+  },
+  "er_experience_suite.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "39d3bcbbc05ec77bb02f1b92077f4749738c1107c69352df065ef3f135b65b48"
+  },
+  "er_residual_research.py": {
+    "changes": [
+      "remove_local_drive_restriction",
+      "remove_trailing_space"
+    ],
+    "published_sha256": "b53da85dd0a0b3e4aff11952e07758dfd93293e08dd1a669d894083f938dd56f"
+  },
+  "er_suite.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "8fe44d7487dd969c47667c7b97e5d9b4972579f665e32ed1eb4e5b5318c0ddf8"
+  },
+  "er_suite_resub.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "9a513d38459808752da804cde1093e1d1793490589d449b58715f50d36710ba5"
+  },
+  "er_suite_v2.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "e38e65d32950919a22848cdf24c467af63f921b8c8217f085d1ea37ff409b2b4"
+  },
+  "numeric_budget_mcts.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "99e9b0e7e5bc930548038796af7e326024a7f7f921c3d56f21a8f636b6537d17"
+  },
+  "numeric_exact.py": {
+    "changes": [
+      "portable_external_tool_argv"
+    ],
+    "published_sha256": "c09c36c634bdb090e37ecee3f9cfa9476e68fe45afc08bb22db1c86b6cc54620"
+  },
+  "numeric_joint_plan_transfer.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "32021f558197ab48c4c4b3ee0cdf39f8df1b10c0e661f39caf22ced44b6773b4"
+  },
+  "numeric_joint_transfer_mcts.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "5eef46d1eb64d12c022ee8505f1d631d283034ce716d2e9c6b495565c30a56cc"
+  },
+  "numeric_joint_word.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "cff4876093a6d7681c1b8538f1e5313b30503efd9d6739a27b34462048c4c388"
+  },
+  "numeric_residual_mcts.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "17dec43f015df1fe87444e22652f3152f54b2693d00860c7a071cf5f3cccddfb"
+  },
+  "numeric_residual_refine_mcts.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "0c2b8ffb74d171c1de86fa5a111376bf371d6a83155bd5b827557fd92e20646f"
+  },
+  "numeric_residual_windows.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "3bacefb51b3e25d9a17bf0a3342d22dc257d12b67bbae5fb824bb9b0b6288be9"
+  },
+  "numeric_suite.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "398d956a2bd3baf09c0346f67c3246d986a4e76ac1efbabd891ea48a709ec54d"
+  },
+  "prepare_resub_iscas.py": {
+    "changes": [
+      "portable_content_verified_asset_bundle",
+      "portable_external_tool_argv",
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "17a4efdf7c6a8afebc95108e498cfc3b6557767221e7920bdf23d8b406b9547a"
+  },
+  "quality_agent.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "a1a44e11d17ab7f092d71f822bd194364f2024a1be499904bfe7f0e11dad8392"
+  },
+  "quality_mcts.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "39e75ad01fb994e354ca29a01a894feda7926d7ee8c06385b0a9dd31ba9e9d55"
+  },
+  "quality_research_mcts.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "6b8ee457b4c13708e23683181afcbfe7aa1ed8e75babd215dcab750996bbebb9"
+  },
+  "research_c880_budget_care_sat.py": {
+    "changes": [
+      "portable_external_tool_argv",
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "e3e5903352906e2f2845cd4e3945923b99470fd49bc587cbd7efc87f497ac6ed"
+  },
+  "research_c880_cut_abc.py": {
+    "changes": [
+      "portable_external_tool_argv"
+    ],
+    "published_sha256": "cfa8b31d327a0bc4c248bf39c69ff2c072144622a84a5638e944408e9c8e7d4b"
+  },
+  "research_c880_hybrid.py": {
+    "changes": [
+      "portable_external_tool_argv",
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "7674bae6470c7abc4a0d1a5ccdb0bb51af7f273446b3ee1d4c47964d8584568c"
+  },
+  "research_c880_local_care_sat.py": {
+    "changes": [
+      "portable_external_tool_argv"
+    ],
+    "published_sha256": "311dd191d77dfed61b8da7e946c807b2ffb0590f221a9292ec21260d281673f1"
+  },
+  "research_c880_local_exact.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "7bbfbd62e358e7337d120a6491bedfa1d53fb2618f5670635df9112817faee16"
+  },
+  "research_c880_loss_cut.py": {
+    "changes": [
+      "portable_external_tool_argv"
+    ],
+    "published_sha256": "7c11754b838422a2bbcad3f879c22b7e85e053caeff291759ea17603a53fe9e0"
+  },
+  "research_c880_mapped_sat.py": {
+    "changes": [
+      "portable_external_tool_argv"
+    ],
+    "published_sha256": "370011e29aebb4b148b6ed980458e1b3377387d463df7a323b0f4f97f5e24e15"
+  },
+  "research_c880_original.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "75e4d5bbf4433a6065e5846340eadde2b2a59faf1eabc09ac0fae239a8559cdb"
+  },
+  "research_c880_plan_search.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "e6421091bb455fe0ba34074f1b8e55323c7ed1310ac9509158e183304be0a89c"
+  },
+  "research_c880_recollect_batches.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "29825c4eca5ee1546274098e00b35b7ecfb961916658681984e6127cedf94c3a"
+  },
+  "research_c880_views.py": {
+    "changes": [
+      "portable_external_tool_argv"
+    ],
+    "published_sha256": "ec07a98c66ec353c22cc406d1c23b93435dc7836372cf2b96764fcda84b6d1d3"
+  },
+  "restored_mcts.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "4955478de2d4e2312ccb88e254113f1b8314f3faf87d5fa2c8bb11824aea663a"
+  },
+  "run_agent_repeats.py": {
+    "changes": [
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "6671b39c4656090713e27568b987a48da02e6a77252e52fe402aa268d858fc40"
+  },
+  "run_glm_benchmarks.py": {
+    "changes": [
+      "portable_content_verified_asset_bundle",
+      "portable_external_tool_argv",
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "f1800d09f6b66e22373cfd557ce723eff50a644d2b52f9c8b23cb1ad27eea5d0"
+  },
+  "verify_restored_mcts.py": {
+    "changes": [
+      "portable_external_tool_argv",
+      "remove_local_drive_restriction"
+    ],
+    "published_sha256": "0e710d74a9f67b74014c171ee0d31cd9a393784df35c289dcded7c8107ad729e"
+  },
+  "bacs_data.py": {
+    "changes": [
+      "portable_content_verified_asset_bundle"
+    ],
+    "published_sha256": "298ed9dcde122c4e91c3887f6b31969bb1294da93dd4c483304ef37e498c6ea9"
+  },
+  "er_resub_data.py": {
+    "changes": [
+      "portable_content_verified_asset_bundle"
+    ],
+    "published_sha256": "04bcaf0861d84a698a17f142785e6c39edf36b76680042db53a4e2b122a2b093"
+  },
+  "portable_assets.py": {
+    "changes": [
+      "new_portability_adapter"
+    ],
+    "published_sha256": "a2f5005f08c229c9dbca9999b5137a403fc0cc3f672d208ac17f9a68141da4ca"
+  },
+  "portable_tools.py": {
+    "changes": [
+      "new_portability_adapter"
+    ],
+    "published_sha256": "e39a94d0842332807dbf8d2e79904d6507b5e13ae87b065434e3b920d73695fb"
+  }
+}

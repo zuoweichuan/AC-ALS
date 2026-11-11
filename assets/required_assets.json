@@ -1,0 +1,59 @@
+{
+  "library_sha256": "80b9aa8827f3bb16e0f0383ea9e4d825b5c1de5d90d4e8107b65cb5525383b11",
+  "inputs": {
+    "c880": {
+      "sha256": "40b232dbe25485aea6cc17e233362d68296363f93133abb6bd129ad8c0880e94",
+      "area": 198.17
+    },
+    "c1355": {
+      "sha256": "5808081b81363169a44298b55dacb82eceea960ffe6e244c03d4debacf3055d1",
+      "area": 235.942
+    },
+    "c1908": {
+      "sha256": "44b996baeaa51139d988957e372a883a90122c61d264fcf2152420e675616af1",
+      "area": 229.558
+    },
+    "c2670": {
+      "sha256": "66139c957aacc0537464169363ee1d937d21c1e46f7627db3d1b76c199664368",
+      "area": 385.168
+    },
+    "c3540": {
+      "sha256": "a2806e430ad5396eb3c1702b2b9c28a8955ba50cf44dcc7c1a4c217e719bb946",
+      "area": 521.094
+    },
+    "c5315": {
+      "sha256": "491d592550b4da67fcc65492fce6d614eb3df9c6c06dcd9049728570dc2babda",
+      "area": 720.328
+    },
+    "c7552": {
+      "sha256": "797c7ad970932322daf943a7d421dd8bf2722fdcbc06552cff2dfa8f76719640",
+      "area": 903.602
+    },
+    "abs_diff": {
+      "sha256": "e9bde8e1960af014f2ee9d8842479c0acc77147736cc998ffc6c6d31c43592fb",
+      "area": 70.224
+    },
+    "adder32": {
+      "sha256": "985ab1ccab530981414406e10a0f071de17745bf6d4331ba7b643797bd14c2cc",
+      "area": 211.204
+    },
+    "buttfly": {
+      "sha256": "0273012bd1045807f45204764f50e793bffb422514e8fa6da6300363aba72b2d",
+      "area": 153.748
+    },
+    "mac": {
+      "sha256": "b934144bac1f391a0a63dc295d5abb433810ed5ff0f024cb87d54c4ae9388a29",
+      "area": 90.972
+    },
+    "mult8": {
+      "sha256": "27cf065439944933955217a2f5921feea96337592772889bc0a816e6c47ce794",
+      "area": 336.756
+    },
+    "mult16": {
+      "sha256": "bd27c3bb2e7d34e669a739dccd627f1b9a7c49a5e3310d8b187b4213f92ef538",
+      "area": 1445.976
+    }
+  },
+  "knowledge_sha256": "adf461a544f05a2ae18c52c861e8f94b458cb51dddc5639bd1f593f83ca458a3",
+  "redistribution_status": "Not bundled pending third-party license review; paths and source proofs require portable import"
+}

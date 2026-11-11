@@ -1,0 +1,49 @@
+{
+  "benchmarks": {
+    "iscas85": {
+      "circuits": [
+        "c880",
+        "c1908",
+        "c2670",
+        "c3540",
+        "c5315",
+        "c7552"
+      ],
+      "metric": "strict_vector_ER",
+      "bounds": [
+        0.005,
+        0.05
+      ]
+    },
+    "bacs": {
+      "circuits": [
+        "abs_diff",
+        "adder32",
+        "buttfly",
+        "mac",
+        "mult8",
+        "mult16"
+      ],
+      "metric": "NMED",
+      "bounds": [
+        0.0059,
+        0.0294
+      ]
+    }
+  },
+  "seeds": [
+    20261101,
+    20261102,
+    20261103,
+    20261104,
+    20261105
+  ],
+  "models": [
+    "deepseek-ai/DeepSeek-V4-Flash",
+    "zai-org/GLM-5.3-Flash"
+  ],
+  "vectors_per_group": 10000,
+  "statistics": "mean and sample standard deviation (ddof=1)",
+  "not_equivalent_to_NHD": true,
+  "api_calls_performed_during_release_preparation": 0
+}

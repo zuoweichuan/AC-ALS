@@ -1,0 +1,18 @@
+{
+  "source_integrity_passed": true,
+  "syntax_files": 98,
+  "toy_dual_simulator_passed": true,
+  "repeat_cli_help_passed": true,
+  "numeric_cli_help_passed": true,
+  "paid_model_calls": 0,
+  "published": false,
+  "full_benchmark_reproduction_verified": false,
+  "offline_test_count": 5,
+  "offline_tests_passed": true,
+  "full_prepare_jobs": 120,
+  "full_prepare_passed": true,
+  "isolated_frozen_child_preflight_passed": true,
+  "glm_paired_prepare_jobs": 120,
+  "glm_paired_prepare_passed": true,
+  "external_abc_availability_sha_check_passed": true
+}

@@ -1,0 +1,18 @@
+{
+  "repository": "https://github.com/zuoweichuan/AC-ALS",
+  "license": "MIT",
+  "personal_authors": "omitted",
+  "date": "2026-11-11",
+  "scope": "ISCAS85 strict vector ER / BACS NMED; paired DeepSeek and GLM repeated experiments",
+  "validation": {
+    "offline_tests": 5,
+    "deepseek_prepare_jobs": 120,
+    "glm_prepare_jobs": 120,
+    "isolated_frozen_child_preflight": true,
+    "paid_model_calls": 0,
+    "full_agent_experiment_rerun": false
+  },
+  "third_party_assets_in_git": false,
+  "source_inventory": "release_inventory.json",
+  "publication": "Repository created; commit and remote verification tracked by GitHub history."
+}
